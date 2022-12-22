@@ -1,5 +1,5 @@
 # Airbnb-Booking-Analysis
-
+![start slide](https://a0.muscache.com/im/pictures/5abcc13e-d206-414c-9c8b-e84d1b649aeb.jpg)
 ## Introduction :
 
 Airbnb began in 2008 when two designers who had space to share hosted three travelers looking for a place to stay. Now, millions of hosts and travelers choose to create a free Airbnb account so they can list their space and book unique accommodations anywhere in the world. And Airbnb experience hosts share their passions and interests with both travelers and locals. Airbnb helps make sharing easy, enjoyable, and safe. We verify personal profiles and listings, maintain a smart messaging system so hosts and guests can communicate with certainty, and manage a trusted platform to collect and transfer payments.
